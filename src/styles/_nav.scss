@@ -1,0 +1,17 @@
+.nav_head{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 20;
+     
+   .container-fluid{
+      #navbarNav_left{
+        display: flex;
+        justify-content: flex-start;   
+        }
+        #navbarNav_right{
+        display:flex;
+        justify-content: flex-end;
+        }
+    }
+}
